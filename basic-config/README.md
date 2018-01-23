@@ -6,8 +6,9 @@ You are the Network Administrator at Ranet company.
 We have just installed new router to be our gateway.
 You have to do the basic configuration via Console Terminal
 (PC-PT) as below:
-1.Set hostname to be "RanetA"
-2.Set enable secret to be "ranetenablepass"
+<br />
+1.Set hostname to be "RanetA"<br />
+2.Set enable secret to be "ranetenablepass"<br />
 3.Set console password to be "ranetconsolepass"
 4.Set telnet password to be "ranettelnetpass"
 5.Set IP address of interface Fastethernet 0/0 to
