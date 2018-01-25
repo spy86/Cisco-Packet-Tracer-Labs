@@ -1,5 +1,5 @@
 # List all LABS #
 
-* NA-1-1-BasicConfig
+* BasicConfig
 * IPv4addressing
 * IPv6addressing
