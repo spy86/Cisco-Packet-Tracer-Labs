@@ -3,6 +3,7 @@
 ### Description ###
 
 You are the network administrator at Ranet, and have to config Ranet-HQ (via Console Terminal) for  connection t use IPv6 as below:
+
 1. set IPv6 address on interface Se0/0/0 to be FEC0:78:0:1::2/64
 2. set IPv6 address on interface Se0/1/0 to be 2001:21::2/48
 3. Set IPv6 address on interface Fa0/0 to be the gateway for Hosts in LAN as:
