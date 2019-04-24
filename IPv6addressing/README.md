@@ -16,4 +16,4 @@ You are the network administrator at Ranet, and have to config Ranet-HQ (via Con
 
 ### Topology ###
 
-![alt text] (https://content.screencast.com/users/snajperm14/folders/Default/media/fa348e0e-38cf-4378-92d4-e694b2eaead4/netwo03.PNG)
+![Alt Text](https://content.screencast.com/users/snajperm14/folders/Default/media/fa348e0e-38cf-4378-92d4-e694b2eaead4/netwo03.PNG)
