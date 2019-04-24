@@ -12,4 +12,4 @@ If everything is correct, All hosts will be able to connect with each other.
 
 ### Topology ###
 
-![alt text] (https://content.screencast.com/users/snajperm14/folders/Default/media/93e0782f-34e6-438f-87fd-d8b701fb1355/netwo04.PNG)
+![Alt Text](https://content.screencast.com/users/snajperm14/folders/Default/media/93e0782f-34e6-438f-87fd-d8b701fb1355/netwo04.PNG)
