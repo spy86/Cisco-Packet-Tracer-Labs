@@ -19,4 +19,4 @@ After these configuration, you should be able to:
 
 ### Topology ###
 
-![alt text] (https://content.screencast.com/users/snajperm14/folders/Default/media/c5eab2b1-46bb-4f6d-afcf-db1d046ac852/netw01.PNG)
+![Alt Text](https://content.screencast.com/users/snajperm14/folders/Default/media/c5eab2b1-46bb-4f6d-afcf-db1d046ac852/netw01.PNG)
