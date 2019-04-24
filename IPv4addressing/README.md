@@ -17,4 +17,4 @@ If the configuration is correct, Host1 in each subnet must be able to ping to Ra
 
 ### Topology ###
 
-![alt text] (https://content.screencast.com/users/snajperm14/folders/Default/media/2fcce20a-499f-4cb1-a511-afea03e34008/netw02.PNG)
+![Alt Text](https://content.screencast.com/users/snajperm14/folders/Default/media/2fcce20a-499f-4cb1-a511-afea03e34008/netw02.PNG)
