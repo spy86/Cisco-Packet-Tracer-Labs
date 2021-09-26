@@ -1,6 +1,6 @@
 # List all labs
 
-![Cisco-Packet-Tracer-Labs](https://img.shields.io/github/issues/spy86/Cisco-Packet-Tracer-Labs.svg) ![Cisco-Packet-Tracer-Labs](https://img.shields.io/github/forks/spy86/Cisco-Packet-Tracer-Labs.svg) ![Cisco-Packet-Tracer-Labs](https://img.shields.io/github/stars/spy86/Cisco-Packet-Tracer-Labs.svg) ![Cisco-Packet-Tracer-Labs](https://img.shields.io/github/license/spy86/Cisco-Packet-Tracer-Labs.svg) ![Cisco-Packet-Tracer-Labs](https://img.shields.io/twitter/url/https/github.com/spy86/Cisco-Packet-Tracer-Labs.svg?style=social)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - [ ] BasicConfig
 - [ ] IPv4addressing
